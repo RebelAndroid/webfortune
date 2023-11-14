@@ -1,4 +1,7 @@
-Quote, Attribution
-Hello there, Obi-Wan-Kenobi
-"General Kenobi, you are a bold one!", General Greivous
-"It's over Anakin, I have the high ground!", Obi-Wan-Kenobi
+Quote, Attribution, Work, Character
+# example quote from a character in a work of fiction, it has all four fields
+Hello there, George Lucas, Star Wars Episode 3: Revenge of The Sith, Obi-Wan-Kenobi
+# example from a quote from a work of non-fiction, it has 3 fields
+"We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.", Thomas Jefferson, The Declaration of Independence
+# example of a direct quote, it has 2 fields
+"Officer, I drop kicked that child in self defence!", Technoblade
